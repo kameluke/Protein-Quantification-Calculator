@@ -54,6 +54,9 @@ This application is a simple calculation tool intended to support research and e
 
 ---
 
-<a data-ofuse-widget-button href="https://ofuse.me/o?uid=213298" data-ofuse-id="213298" data-ofuse-size="large">OFUSEで応援を送る</a><script async src="https://ofuse.me/assets/platform/widget.js" charset="utf-8"></script>
+このアプリが便利だなと思った方は下記より応援頂けましたら幸いです．
+If you found this app useful, I’d appreciate your support via the link below.
+
+<a data-ofuse-widget-button href="https://ofuse.me/o?uid=213298" data-ofuse-id="213298" data-ofuse-size="large">OFUSEで応援を送る</a>
 
 Created with Codex | 2026/8/21 kamel
