@@ -19,7 +19,7 @@ STD濃度とAbs値、サンプルのAbs値を貼り付けると、標準曲線�
 
 ### 使い方
 
-<a href="https://kameluke.github.io/Protein-Quantification-Calculator/">
+<a href="https://kameluke.github.io/Protein-Quantification-Calculator/">Protein Quantification Calculator</a>
 または`index.html` をダウンロードしてブラウザで開いて使用します。
 
 ### 免責事項
@@ -47,7 +47,7 @@ Paste standard concentrations, standard Abs values, and sample Abs values to gen
 
 ### Usage
 
-<a href="https://kameluke.github.io/Protein-Quantification-Calculator/">
+<a href="https://kameluke.github.io/Protein-Quantification-Calculator/">Protein Quantification Calculator</a>
 or Download `index.html` and open in a web browser.
 
 ### Disclaimer
