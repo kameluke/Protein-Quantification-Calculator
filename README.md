@@ -1,4 +1,4 @@
-<img width="563" height="179" alt="image" src="https://github.com/user-attachments/assets/9086207b-e34f-4250-9af6-68b0a88fa703" /># Protein Quantification Calculator
+# Protein Quantification Calculator
 
 ## 日本語
 
