@@ -59,4 +59,6 @@ If you found this app useful, I’d appreciate your support via the link below.
 
 <a data-ofuse-widget-button href="https://ofuse.me/o?uid=213298" data-ofuse-id="213298" data-ofuse-size="large">OFUSEで応援を送る</a>
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'R5R01LNAG4');kofiwidget2.draw();</script> 
+
 Created with Codex | 2026/8/21 kamel
