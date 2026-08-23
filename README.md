@@ -1,4 +1,4 @@
-# Protein Quantification Calculator
+<img width="563" height="179" alt="image" src="https://github.com/user-attachments/assets/9086207b-e34f-4250-9af6-68b0a88fa703" /># Protein Quantification Calculator
 
 ## 日本語
 
@@ -57,10 +57,8 @@ This application is a simple calculation tool intended to support research and e
 このアプリが便利だなと思った方は下記より応援頂けましたら幸いです．
 If you found this app useful, I’d appreciate your support via the link below.
 
-<a data-ofuse-widget-button href="https://ofuse.me/o?uid=213298" data-ofuse-id="213298" data-ofuse-size="large">OFUSEで応援を送る</a>
-
 <a href="https://ko-fi.com/R5R01LNAG4">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fiで活動を応援する / Support me on Ko-fi">
 </a>
 
 Created with Codex | 2026/8/21 kamel
