@@ -56,7 +56,7 @@ This application is a simple calculation tool intended to support research and e
 
 ---
 
-このアプリが便利だなと思った方は下記より応援頂けましたら幸いです．
+このアプリが便利だなと思った方は下記より応援頂けましたら幸いです．  
 If you found this app useful, I’d appreciate your support via the link below.
 
 <a href="https://ko-fi.com/R5R01LNAG4">
